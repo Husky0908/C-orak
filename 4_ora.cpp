@@ -22,5 +22,5 @@ int main()
         koztes=koztes+diff;
     }
     cout << "Ezek voltakaz atlaghoz adott novendekek";
-    return 0;
+return 0;
 }
